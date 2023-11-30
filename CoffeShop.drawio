@@ -1,0 +1,298 @@
+<mxfile host="Electron" modified="2023-11-29T22:29:05.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="j3Ov0ZOqpWCNUiydoinx" version="21.6.8" type="device">
+  <diagram name="Page-1" id="1zTRWUDWUHw2J1xJAIrD">
+    <mxGraphModel dx="628" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-2" value="Accueil" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.13;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="w6MTFLubluAh0_-ET7tQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="85.25" y="230.00000000000006" as="sourcePoint" />
+            <mxPoint x="87" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.002;exitY=0.196;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.01;entryY=0.193;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w6MTFLubluAh0_-ET7tQ-1" target="w6MTFLubluAh0_-ET7tQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="170" as="sourcePoint" />
+            <mxPoint x="290" y="77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-9" value="&lt;h1&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Nos Boissons&amp;nbsp; Menu Service client&amp;nbsp; Carriere&amp;nbsp; Connexion&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-12" value="&lt;h1&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Nos Boissons,&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Chez StarsDucks, il y a toujours question de qualité. Notre passion pour les boissons n&#39;a dégal que notre amour de le partager.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Que vous siroter en solo ou que vous accueiliez des invités, savourer une boisson chez vous. Vous serez dans une experience relaxante, apaisante et émouvante.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Avec autant d&#39;options, il est difficile de trouver la tasse parfaite.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Le Spectre StarDucks&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Nos Boissons sont classés par trois taille, de sorte que vous pouviez facilement trouver la sauveur et l&#39;intensité qui vous conviennent.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="290" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="40" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-16" value="Connexion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-19" value="Retour a l&#39;accueil" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="45" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-20" value="Saisir votre nom d&#39;utilisateur :" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="75" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="105" width="210" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-24" value="Saisir votre mot de passe :" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="132.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="162.5" width="210" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-26" value="Connexion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-28" value="Annuler" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="220" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-29" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Créer un compte&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="177.5" width="130" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="40" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-31" value="Créer un Compte" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="10" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-32" value="Retour a l&#39;accueil" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="45" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-33" value="Saisir un nom d&#39;utilisateur :" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="75" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="105" width="210" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-35" value="Saisir un&amp;nbsp;mot de passe :" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="132.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="162.5" width="210" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-37" value="Créer et se Connecter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-38" value="Annuler" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="220" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-39" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Se connecter&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="177.5" width="130" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="40" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-41" value="Client" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="50" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-43" value="" style="endArrow=none;html=1;rounded=0;exitX=0.13;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="w6MTFLubluAh0_-ET7tQ-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1295.25" y="230.00000000000006" as="sourcePoint" />
+            <mxPoint x="1297" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0.002;exitY=0.196;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.01;entryY=0.193;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w6MTFLubluAh0_-ET7tQ-40" target="w6MTFLubluAh0_-ET7tQ-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1410" y="170" as="sourcePoint" />
+            <mxPoint x="1500" y="77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-46" value="&lt;h1&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Nos Boissons&amp;nbsp; Menu Service client&amp;nbsp; Carriere&amp;nbsp; (Nom du client)&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="37.5" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-47" value="&lt;h1&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Nos Boissons,&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Chez StarsDucks, il y a toujours question de qualité. Notre passion pour les boissons n&#39;a dégal que notre amour de le partager.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Que vous siroter en solo ou que vous accueiliez des invités, savourer une boisson chez vous. Vous serez dans une experience relaxante, apaisante et émouvante.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Avec autant d&#39;options, il est difficile de trouver la tasse parfaite.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Le Spectre StarDucks&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Nos Boissons sont classés par trois taille, de sorte que vous pouviez facilement trouver la sauveur et l&#39;intensité qui vous conviennent.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="60" width="290" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-64" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="470" y="55" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-65" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="850" y="55" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-66" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="375" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-67" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="1258" y="392.5" width="17.5" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-68" value="" style="endArrow=none;html=1;rounded=0;exitX=0.13;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="w6MTFLubluAh0_-ET7tQ-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1285.25" y="562.5" as="sourcePoint" />
+            <mxPoint x="1287" y="422.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-69" value="" style="endArrow=none;html=1;rounded=0;exitX=0.002;exitY=0.196;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.01;entryY=0.193;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w6MTFLubluAh0_-ET7tQ-66" target="w6MTFLubluAh0_-ET7tQ-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1400" y="502.5" as="sourcePoint" />
+            <mxPoint x="1490" y="409.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-70" value="&lt;h1&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Nos Boissons&amp;nbsp; Menu Service client&amp;nbsp; Carriere&amp;nbsp; (Nom du client)&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="370" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-72" value="Client (Boissons)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-73" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="430" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-74" value="Boissons 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-79" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="430" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-80" value="Boissons 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-81" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="430" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-82" value="Boissons 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-83" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="520" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-84" value="Boissons 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1505" y="480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-85" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="520" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-86" value="Boissons 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1405" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-87" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="520" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-88" value="Boissons 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1505" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-90" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="380" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-91" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="850" y="392.5" width="17.5" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-92" value="" style="endArrow=none;html=1;rounded=0;exitX=0.13;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.004;entryY=0.891;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w6MTFLubluAh0_-ET7tQ-90" target="w6MTFLubluAh0_-ET7tQ-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="877.75" y="572.5" as="sourcePoint" />
+            <mxPoint x="879.5" y="432.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-93" value="" style="endArrow=none;html=1;rounded=0;exitX=0.002;exitY=0.196;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.01;entryY=0.193;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w6MTFLubluAh0_-ET7tQ-90" target="w6MTFLubluAh0_-ET7tQ-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="992.5" y="512.5" as="sourcePoint" />
+            <mxPoint x="1082.5" y="419.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-94" value="&lt;h1&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Nos Boissons&amp;nbsp; Menu Service client&amp;nbsp; Carriere&amp;nbsp; (Nom du serveur)&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="877.5" y="380" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-95" value="Serveur (Boissons)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="992.5" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-108" value="Nom de la boisson :" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="937.5" y="430" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-109" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="917.5" y="460" width="210" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-110" value="Prix de la Boisson :" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="937.5" y="487.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-111" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="917.5" y="517.5" width="210" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-112" value="Boissons Chaude ou Froide :" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="550" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-113" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="917.5" y="580" width="210" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-114" value="Description de la Boisson :" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="615" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-115" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="917.5" y="645" width="210" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-116" value="Taile du Goblet :" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="937.5" y="670" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-117" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="917.5" y="700" width="210" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-120" value="Annuler" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="740" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-121" value="Ajouter la Boisson" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="922.5" y="735" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-122" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="745" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-123" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="1268" y="762.5" width="17.5" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-124" value="" style="endArrow=none;html=1;rounded=0;exitX=0.13;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="w6MTFLubluAh0_-ET7tQ-122">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1295.25" y="932.5" as="sourcePoint" />
+            <mxPoint x="1297" y="792.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-125" value="" style="endArrow=none;html=1;rounded=0;exitX=0.002;exitY=0.196;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.01;entryY=0.193;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w6MTFLubluAh0_-ET7tQ-122" target="w6MTFLubluAh0_-ET7tQ-122">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1410" y="872.5" as="sourcePoint" />
+            <mxPoint x="1500" y="779.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-126" value="&lt;h1&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Nos Boissons&amp;nbsp; Menu Service client&amp;nbsp; Carriere&amp;nbsp; (Nom du client)&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="740" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-127" value="Client (Achat Boissons)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="700" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-136" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="800" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-137" value="Boissons 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="910" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-140" value="Description" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="800" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-143" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="870" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-144" value="Prix :&amp;nbsp; 00.00€" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="880" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-148" value="Acheter la boisson" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="940" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w6MTFLubluAh0_-ET7tQ-149" value="Fait maison par StarsDucks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="905" width="115" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
